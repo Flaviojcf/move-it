@@ -10,7 +10,7 @@
 <br />
 <div align="center">
   <a href="[https://github.com/Flaviojcf/estacionamento-frontend](https://github.com/Flaviojcf/move-it)">
-    
+      <img src="/public/img/move.it.png" alt="Logo"/>
   </a>
 
 
